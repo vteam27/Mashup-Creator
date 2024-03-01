@@ -2,7 +2,7 @@
 
 This project is a web application built using Streamlit that allows users to create mashups of YouTube videos. Users can input the artist's name, specify the number of clips, duration per clip, and the output filename. The application fetches videos from YouTube based on the artist's name, downloads and processes the clips, and merges them into a single mashup audio file.
 
-PS: Project is now live at https://mashup-creator.streamlit.app/ to try it out !
+PS: Project is now live at https://mashup-creator.streamlit.app/ Try it out !
 
 ## How to Run
 
@@ -43,8 +43,7 @@ streamlit run app.py
 ![image](https://github.com/vteam27/Mashup-Creator/assets/94956831/1057a45b-65d5-4a51-b17f-c195ed7839b1)
 
 ### Result :
-
-https://github.com/vteam27/Mashup-Creator/assets/94956831/9b2173d9-0493-473c-84ae-be31bf8fbd97
+https://github.com/vteam27/Mashup-Creator/assets/94956831/4aad9dbf-b0c2-4899-9d60-4f235379433a
 
 ## License
 
