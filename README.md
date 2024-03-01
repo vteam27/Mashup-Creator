@@ -35,8 +35,16 @@ streamlit run app.py
 ## Usage
 
 1. Enter the artist's name, number of clips, duration per clip, and the output filename.
-2. Click on the "Create Mashup" button.
+2. Click on the "Create Mashup" button and wait.
 3. Once the mashup is created successfully, a "Download Mashup" button will appear. Click on it to download the mashup audio file.
+
+## Example
+
+![image](https://github.com/vteam27/Mashup-Creator/assets/94956831/1057a45b-65d5-4a51-b17f-c195ed7839b1)
+
+### Result :
+
+https://github.com/vteam27/Mashup-Creator/assets/94956831/9b2173d9-0493-473c-84ae-be31bf8fbd97
 
 ## License
 
